@@ -5,7 +5,7 @@ I'm a passionate backend .NET developer with a love for product development, Dev
 
 ## Skills
 - **Languages:** ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- **Technologies:** ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+- **Technologies:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) ![.NET 7](https://img.shields.io/badge/-.NET%207-512BD4?style=flat&logo=.net&logoColor=white) ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=.net&logoColor=white) ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 - **Software Architecture:** ![DDD](https://img.shields.io/badge/-DDD-333333?style=flat) ![OOP](https://img.shields.io/badge/-OOP-333333?style=flat) ![UML](https://img.shields.io/badge/-UML-333333?style=flat)
 - **Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
